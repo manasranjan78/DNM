@@ -1,0 +1,6 @@
+{
+  "name": "DNM SALOON",
+  "description": "Luxury unisex hair, grooming, and skin atelier in Madhu Vihar, Delhi with online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
